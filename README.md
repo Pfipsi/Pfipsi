@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pfipsi
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning visual Basic
-- 💞️ I’m looking to collaborate on some interesting projects
+- 👀 I’m interested in learning to code.Im a bloody newbie :) 
+- 🌱 I’m currently learning visual Basic later maybe Python
+- 💞️ I’m looking to collaborate on some interesting projects where i can learn how to code
 - 📫 How to reach me? Via git Hub
 
 <!---
